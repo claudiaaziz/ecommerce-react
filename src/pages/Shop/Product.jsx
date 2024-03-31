@@ -8,6 +8,7 @@ const Product = ({ product }) => {
         <p className="bold">{name}</p>
         <p>${price}</p>
       </div>
+      <button className="add-to-cart-btn">Add To Cart</button>
     </div>
   )
 }
