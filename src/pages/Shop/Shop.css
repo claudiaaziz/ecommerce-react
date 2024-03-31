@@ -38,7 +38,7 @@
 
 .add-to-cart-btn {
   background-color: transparent;
-  border: 2px solid rgb(19, 19, 19);
+  border: 2px solid var(--primary-color);
   min-width: 100px;
   padding-left: 10px;
   padding-right: 10px;
@@ -48,7 +48,7 @@
 }
 
 .add-to-cart-btn:hover {
-  background-color: rgb(19, 19, 19);
-  color: white;
+  background-color: var(--primary-black);
+  color: var(--primary-white);
   cursor: pointer;
 }

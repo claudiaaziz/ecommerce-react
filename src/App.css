@@ -10,6 +10,11 @@ body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
+:root {
+  --primary-black: rgb(19, 19, 19);
+  --primary-white: white;
+}
+
 .bold {
   font-weight: bold;
 }
