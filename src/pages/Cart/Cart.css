@@ -23,3 +23,45 @@
   width: 100%;
   font-size: 30px;
 }
+
+.count-handler {
+  display: flex;
+  align-items: center;
+}
+
+.count-handler button {
+  width: 30px;
+  height: 30px;
+  background-color: var(--primary-black);
+  color: var(--primary-white);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+  margin: 0 5px;
+}
+
+.count-handler input {
+  width: 40px;
+  text-align: center;
+  font-weight: bold;
+  border: 1px solid var(--primary-black);
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.checkout p {
+  text-align: center;
+}
+
+.checkout button {
+  width: 150px;
+  height: 50px;
+  background-color: rgb(19, 19, 19);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  margin: 10px;
+  font-size: .9rem;
+  cursor: pointer;
+}

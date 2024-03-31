@@ -1,7 +1,6 @@
 .shop-title {
-  margin-top: 100px;
   text-align: center;
-  font-size: 40px;
+  font-size: 35px;
 }
 
 .products {
@@ -38,7 +37,7 @@
 
 .add-to-cart-btn {
   background-color: transparent;
-  border: 2px solid var(--primary-color);
+  border: 2px solid var(--primary-black);
   min-width: 100px;
   padding-left: 10px;
   padding-right: 10px;
